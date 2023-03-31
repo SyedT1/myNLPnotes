@@ -6,3 +6,4 @@
 + https://github.com/graykode/nlp-tutorial
 + https://atcold.github.io/pytorch-Deep-Learning/
 + https://github.com/yandexdataschool/nlp_course
++ https://github.com/karpathy/nn-zero-to-hero
